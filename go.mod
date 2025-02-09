@@ -1,4 +1,4 @@
-module grpc-client
+module github.com/HomeBlocks/grpc-client
 
 go 1.23.6
 
